@@ -65,6 +65,3 @@ Dense(8) + Softmax
 **Rija Malik**
 GitHub: [@rijamalik971-art](https://github.com/rijamalik971-art)
 
-## 🏢 Internship
-Completed as part of **CodeAlpha Machine Learning Internship**
-- 🌐 [www.codealpha.tech](https://www.codealpha.tech)
